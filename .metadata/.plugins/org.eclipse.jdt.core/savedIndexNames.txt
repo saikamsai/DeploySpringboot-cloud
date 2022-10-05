@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+Z:\javafsd\DeploySpringboot-cloud\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1074242588.index
+887593068.index
